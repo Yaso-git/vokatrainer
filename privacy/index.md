@@ -4,7 +4,7 @@ title: VokaTrainer – Datenschutzerklärung / Privacy Policy
 
 # Datenschutzerklärung für VokaTrainer
 
-**Stand:** 20. November 2026
+**Stand:** 25. November 2026
 
 **Verantwortlich:** Ruben Meyer, Kontakt: yasostudio.apps@gmail.com
 
@@ -20,7 +20,10 @@ VokaTrainer erhebt, speichert oder übermittelt **keine personenbezogenen Daten 
 - **Keine Internetverbindung:** Die App fordert keine Internetberechtigung an und kann keine Daten senden.
 - **Keine Werbung, keine Analyse- oder Tracking-Dienste, keine Drittanbieter-SDKs** zur Datenerfassung.
 - **Keine Cloud-Sicherung:** Die automatische Android-Sicherung ist für diese App abgeschaltet; deine Daten werden nicht in eine Cloud kopiert.
-- **Keine Berechtigungen:** Die App verlangt keine Berechtigungen (z. B. Kamera, Mikrofon, Standort, Kontakte).
+- **Keine Berechtigungen:** Die App verlangt keine Berechtigungen (z. B. Kamera, Mikrofon, Standort, Kontakte). Für Fotos nutzt sie die Kamera-App deines Geräts bzw. die Bildauswahl des Systems (siehe „Vokabeln per Foto“).
+
+## Vokabeln per Foto (ab Version 1.1.0)
+Wenn du eine Seite fotografierst oder ein Bild aus der Galerie wählst, wird das Bild **ausschließlich auf deinem Gerät** ausgewertet. Die Texterkennung läuft vollständig offline. Das Foto wird nach dem Einlesen gelöscht und weder gespeichert noch übertragen. Die App benötigt dafür keine Kamera- oder Speicherberechtigung: Die Aufnahme erfolgt über die Kamera-App deines Geräts, die Auswahl über die Bildauswahl des Android-Systems. Übernommen werden nur die Vokabeln, die du in der Vorschau bestätigst.
 
 ## Sprachausgabe
 Für das Vorlesen von Wörtern nutzt die App die auf deinem Gerät installierte Sprachausgabe (Text-to-Speech) des Systems. Die App übergibt dafür nur das vorzulesende Wort an diese Systemfunktion. Wie die von dir gewählte Sprachausgabe-App Daten verarbeitet, regelt deren Anbieter (z. B. Google oder der Gerätehersteller).
@@ -41,7 +44,7 @@ Wenn sich die App so ändert, dass Daten anders verarbeitet werden, wird diese E
 
 # Privacy Policy for VokaTrainer
 
-**Last updated:** 20 November 2026
+**Last updated:** 25 November 2026
 
 **Responsible:** Ruben Meyer, contact: yasostudio.apps@gmail.com
 
@@ -57,7 +60,10 @@ VokaTrainer does **not collect, store or transmit any personal data to us or to 
 - **No internet access:** the app does not request the internet permission and cannot send data.
 - **No advertising, no analytics or tracking services, no third-party SDKs** that collect data.
 - **No cloud backup:** automatic Android backup is disabled for this app; your data is not copied to any cloud.
-- **No permissions:** the app requests no permissions (e.g. camera, microphone, location, contacts).
+- **No permissions:** the app requests no permissions (e.g. camera, microphone, location, contacts). For photos it uses your device's camera app or the system image picker (see "Scanning words from a photo").
+
+## Scanning words from a photo (version 1.1.0 and later)
+When you take a photo of a page or choose an image from your gallery, the image is processed **only on your device**. Text recognition runs completely offline. The photo is deleted after reading and is neither stored nor transmitted. The app needs no camera or storage permission for this: the photo is taken with your device's camera app and images are picked with the Android system image picker. Only the words you confirm in the preview are imported.
 
 ## Text-to-speech
 To read words aloud, the app uses the text-to-speech engine installed on your device. The app only passes the word to be spoken to this system function. How your chosen text-to-speech app handles data is governed by its provider (e.g. Google or your device manufacturer).
